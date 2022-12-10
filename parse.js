@@ -24,3 +24,4 @@ fs.createReadStream('data.csv')
   .on('end', () => {
     console.log('All files created');
   });
+  
