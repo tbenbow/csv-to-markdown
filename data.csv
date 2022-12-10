@@ -1,9 +1,48 @@
-eventName,location,startDate,endDate,public
-row1-value1,row1-value2,row1-value3,row1-value4,row1-value5
-row2-value1,row2-value2,row2-value3,row2-value4,row2-value5
-row3-value1,row3-value2,row3-value3,row3-value4,row3-value5
-row4-value1,row4-value2,row4-value3,row4-value4,row4-value5
-row5-value1,row5-value2,row5-value3,row5-value4,row5-value5
-row6-value1,row6-value2,row6-value3,row6-value4,row6-value5
-row7-value1,row7-value2,row7-value3,row7-value4,row7-value5
-row8-value1,row8-value2,row8-value3,row8-value4,row8-value5
+eventName,location,startDate,endDate,juanSpeaking
+International Conference on Internet of Things Based on Blockchain (ICIOTBB),"Zurich, Switzerland",01/14/2023,01/15/2023,
+CES Las Vegas 2023,Las Vegas,01/05/2023,01/08/2023,
+IBC Conference,"Bangalore, India",1/9/2023,1/11/2023,
+DWeb Gateway at WEF,"Davos, Switzerland",1/15/2023,1/20/2023,unknown
+Winter Event 2023 ,Reykjavik Iceland,01/30/2023,02/01/2023,yes
+ALL EVENTS TEAM SUMMIT?,Somewhere warm,02/06/2023,02/09/2023,
+The Blockchain Event,"Fort Lauderdale, FL",02/14/2023,02/17/2023,
+NFT Paris,"Paris, FRANCE",2/24/2023,2/25/2023,
+Outercore Satellite Event @ NFT Paris,"Paris, FRANCE",2/24/2023,2/24/2023,
+ETHDenver 2023,"River North, Denver, CO
+and online",2/24/2023,03/05/2023,
+Btokyo,"Tokyo, Japan",07/03/2023,07/03/2023,
+Filecoin Foundation Hacker Base ,"Denver, CO",03/02/2023,03/05/2023,unknown
+Filecoin Meetup @ ETHDenver,"Denver, CO",03/03/2023,03/03/2023,unknown
+Future Digital Finance,"Austin, TX",03/06/2023,03/07/2023,
+SXSW,"Austin, TX",3/10/2023,03/19/2023,
+BUIDLCON 2023, United Arab Emirates,03/13/2023,03/15/2023,
+DWeb Gateway at SXSW,"Austin, TX",03/14/2023,03/14/2023,yes
+Filecoin Meetup @ SXSW,"Austin, TX",3/15/2023,3/15/2023,
+Virtuality Paris,"Le Carreau du Temple, París",03/16/2023,03/17/2023,
+Blockchain Africa Conference ,"Johannesburg, SOUTH AFRICA",03/16/2023,03/17/2023,
+NFT LA 23',"Los Angeles, USA",03/20/2023,03/23/2023,
+Paris Blockchain Week Summit,"Paris, FRANCE",03/22/2023,03/23/2023,
+IPFS THING,???,03/27/2023,03/31/2023,yes
+IETF Yokohama,"Yokohama, Japan",03/25/2023,03/31/2023,
+RWC 2023,"Tokyo, Japan",03/27/2023,03/29/2023,
+Founder's Summit,TBD,3/1/23,3/1/23,
+Casual Islands Future of Computing,"Toronto, Canada",04/25/2023,04/27/2023,
+FIL Austin,"Austin, TX",04/24/2023,04/25/2023,unknown
+Consensus,"Austin, TX",04/26/2023,04/28/2023,
+Web Summit Rio ,"Rio de Janeiro, Brazil",05/01/2023,05/04/2023,
+Security Token Summit,"New York, NY",05/09/2023,05/10/2023,
+Non Fungible Conference ,"Lisbon, Portugal",05/24/2023,05/25/2023,
+iSportConnect Web3 Summit,"Emirates Stadium, London",06/14/2023,06/15/2023,
+Filecoin Hangout at DWeb Camp,"Camp Navarro, CA",06/21/2023,06/25/2023,yes
+Web3 Vienna,"Vienna, Austria",06/28/2023,06/29/2023,
+International Conference on Internet of Things Based on Blockchain (ICIOTBB),"Copenhagen, Denmark",07/10/2023,07/11/2023,
+EthCC,"Paris, France",7/15/23,7/15/23,
+SBS EU,"Cercle Lebrun, Paris France",7/15/23,7/15/23,unknown
+FIL Europe,"Paris, France",7/15/23,7/15/23,yes 
+Lab Week,"Reykjavik, Iceland",09/25/2023,09/29/2023,yes 
+Lisbon Blockchain Month,?? ,10/15/23,10/15/23,
+DevCon 2023,?? ,10/15/23,10/15/23,
+FIL Asia,Singapore or Seoul,10/15/23,10/15/23,yes
+Decentralized,"Athens, GREECE",11/01/2023,11/03/2023,
+Websummit,"Lisbon, Portugal",11/13/2023,11/16/2023,
+IPFS CAMP,?? ,12/1/23,12/1/23,

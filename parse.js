@@ -10,13 +10,28 @@ function getAsYaml(csvRow) {
   return text
 }
 
+function removeBannedChars(string) {
+  let sanitizedString = string
+  const bannedChars = ["@", "?", "(", ")"]
+  bannedChars.forEach(bannedChar => sanitizedString = sanitizedString.replace(bannedChar, ""))
+  return sanitizedString
+}
+
+function slugify(string) {
+  const lowerCaseString = string.toLowerCase()
+  const sanitizedString = removeBannedChars(lowerCaseString)
+  const trimmedString = sanitizedString.trimEnd();
+  const dashedString = trimmedString.replace(/\s+/g, '-')
+  return dashedString
+}
+
 fs.createReadStream('data.csv')
   .pipe(csv())
   .on('data', (data) => {
     const firstKey = Object.keys(data)[0]
-    const name = data[firstKey]
+    const name = slugify(data[firstKey])
     // create a new file for each row in the CSV file
-    fs.writeFile(`${name}.md`, getAsYaml(data), (err) => {
+    fs.writeFile(`out/${name}.md`, getAsYaml(data), (err) => {
       if (err) throw err;
       console.log(`File ${name}.txt created`);
     });
